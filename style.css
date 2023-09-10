@@ -50,17 +50,17 @@ button {
    cursor: pointer;
 }
 
-.add-button {
+.botao-adicionar {
     background-color: green;
     font-size: 1.5em;
 }
 
-.editor-button {
+.botao-editar {
     background-color: blue;
     font-size: 1em;
 }
 
-.eraser-button {
+.botao-apagar {
     background-color: red;
     font-size: 1em;
 }
